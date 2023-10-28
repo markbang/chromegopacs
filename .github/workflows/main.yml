@@ -28,3 +28,11 @@ jobs:
 
     - name: Execute main.py
       run: python main.py  # 替换为你的main.py的实际文件名
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Auto-commit changes"
+        git push
