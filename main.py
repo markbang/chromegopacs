@@ -74,8 +74,8 @@ for file_path, content in results.items():
 with open('hy2pac.txt','w') as f:
     f.write('\n'.join(pac_list))
 current_time = datetime.now()
-with open(f"{current_time}.txt") as a:
-    a.write(current_time,"更新")
+with open(f"update_time.txt", 'w') as a:
+    a.write(current_time.strftime("%Y-%m-%d %H:%M:%S"))
 
     
         
