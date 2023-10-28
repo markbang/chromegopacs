@@ -1,0 +1,28 @@
+name: Hourly Workflow
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时执行一次，在整点时刻执行
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+        manual_run:
+          description: 'Run the workflow manually'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'  # 替换为你的Python版本
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt  # 如果有依赖需求，确保你有一个requirements.txt文件
+
+    - name: Execute main.py
+      run: python main.py  # 替换为你的main.py的实际文件名

@@ -1,0 +1,3 @@
+requests
+geoip2
+socket
