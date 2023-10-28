@@ -76,7 +76,3 @@ with open('hy2pac.txt','w') as f:
 current_time = datetime.now()
 with open(f"update_time.txt", 'w') as a:
     a.write(current_time.strftime("%Y-%m-%d %H:%M:%S"))
-
-    
-        
-
