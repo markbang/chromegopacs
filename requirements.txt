@@ -1,2 +1,3 @@
 requests
 geoip2
+pyyaml
