@@ -3,6 +3,8 @@ import re
 import json
 import geoip2.database
 import socket
+from datetime import datetime
+
 
 def fetch_github_files(username, repository, file_paths):
     base_url = f"https://raw.githubusercontent.com/{username}/{repository}/master/"
@@ -71,7 +73,9 @@ for file_path, content in results.items():
         pac_list.append(convert_to_hyproxy(content))
 with open('hy2pac.txt','w') as f:
     f.write('\n'.join(pac_list))
-
+current_time = datetime.now()
+with open(f"{current_time}.txt") as a:
+    a.write(current_time,"更新")
 
     
         
