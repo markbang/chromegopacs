@@ -19,20 +19,29 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.11'  # 替换为你的Python版本
+        python-version: 3.7  # 替换为你的Python版本
     - name: Upgrade pip
       run: python -m pip install --upgrade pip
       
-    - name: Install dependencies
-      run: pip install -r requirements.txt  # 如果有依赖需求，确保你有一个requirements.txt文件
+    - name: Install requirements
+      run: |
+        python3 -m pip install --upgrade pip
+        pip3 install -r ./requirements.txt
 
     - name: Execute main.py
-      run: python main.py  # 替换为你的main.py的实际文件名
+      run: python3 ./main.py  # 替换为你的main.py的实际文件名
 
-    - name: Commit and push changes
+    - name: Commit
+      env:
+        GIT_NAME: GitHub Actions[Bot]
+        GIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
       run: |
-        git config --local user.email "3137972908@qq.com"
-        git config --local user.name "markbang"
+        git config --local user.name $GIT_NAME
+        git config --local user.email $GIT_EMAIL
         git add .
-        git commit -m "Auto-commit changes"
-        git push
+        git commit -m "Github action update at `date '+%Y-%m-%d %H:%M:%S'`."
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
