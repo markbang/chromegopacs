@@ -1,5 +1,7 @@
 [感谢大佬Alvin🥳🥳🥳](https://github.com/Alvin9999)
 
+Chromego项目地址：https://github.com/Alvin9999/new-pac Star一下吧！
+
 尽量别滥用，谢谢
 
 项目只是提取大佬项目中的节点，没有技术含量（节点不是项目中的全部，我只提取了经常更新维护的部分）
