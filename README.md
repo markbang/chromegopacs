@@ -7,3 +7,10 @@
 Windows: https://github.com/MatsuriDayo/nekoray/releases
 
 Andriod: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+> 订阅链接
+
+```
+https://raw.githubusercontent.com/markbang/chromgopacs/main/hy2pac.txt
+```
+
