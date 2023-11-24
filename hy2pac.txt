@@ -1,7 +1,7 @@
 hy2://dongtaiwang.com@www.dtku46.xyz:49730/?insecure=1&sni=www.bing.com#Taiwan, New Taipei
 hy2://dongtaiwang.com@108.181.22.155:44141/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@108.181.22.155:44141/?insecure=1&sni=www.bing.com#United States, Los Angeles
-hy2://dongtaiwang.com@www.dtku48.xyz:49694/?insecure=1&sni=www.bing.com#Taiwan, Yuanlin
+hy2://dongtaiwang.com@www.dtku48.xyz:12398/?insecure=1&sni=www.bing.com#Taiwan, Yuanlin
 hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=55&downmbps=110&alpn=h3#France, Paris
 hysteria://109.104.152.180:64502/?insecure=1&peer=bing.com&auth=kxeFKpB8fhGjP7cO7NNgXYr19ZsqKQMco612ZCfXiaJrojw571&upmbps=55&downmbps=110&alpn=h3#United States, Kansas City
 hysteria://173.234.25.52:20164/?insecure=1&peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
