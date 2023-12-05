@@ -3,7 +3,7 @@ hy2://dongtaiwang.com@108.181.22.155:12881/?insecure=1&sni=www.bing.com#United S
 hy2://dongtaiwang.com@108.181.22.155:12881/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@167.160.90.252:63530/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=55&downmbps=110&alpn=h3#France, Paris
-hysteria://109.104.152.180:64502/?insecure=1&peer=bing.com&auth=kxeFKpB8fhGjP7cO7NNgXYr19ZsqKQMco612ZCfXiaJrojw571&upmbps=55&downmbps=110&alpn=h3#United States, Kansas City
+hysteria://109.104.152.180:59759/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Kansas City
 hysteria://173.234.25.52:20164/?insecure=1&peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://109.104.152.149:48406/?insecure=1&peer=www.amazon.cn&auth=xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB&upmbps=55&downmbps=110&alpn=h3#United States, Kansas City
 tuic://c2faac69-e1c1-4bf5-b8a8-d2ce4d834a66:dongtaiwang@tuic1.freeh1.xyz:40981/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Kansas City
