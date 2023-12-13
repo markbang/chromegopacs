@@ -13,6 +13,6 @@ Andriod: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 > 订阅链接
 
 ```
-https://raw.githubusercontent.com/markbang/chromgopacs/main/hy2pac.txt
+https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
 ```
 
