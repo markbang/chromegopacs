@@ -5,7 +5,7 @@ hy2://dongtaiwang.com@167.160.90.252:63530/?insecure=1&sni=www.bing.com#United S
 hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=55&downmbps=110&alpn=h3#France, Paris
 hysteria://167.160.91.115:41189/?insecure=1&peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://173.234.25.52:20164/?insecure=1&peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
-hysteria://108.181.22.239:41146/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
+hysteria://108.181.22.239:39967/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
 tuic://3618921b-adeb-4bd3-a2a0-f98b72a674b1:dongtaiwang@108.181.24.7:23450/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
 tuic://d6214437-e1b5-4334-9090-8f66b78bea89:dongtaiwang@108.181.22.205:50987/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
