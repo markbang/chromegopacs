@@ -1,4 +1,4 @@
-hy2://dongtaiwang.com@www.dtku46.xyz:18417/?insecure=1&sni=www.bing.com#Taiwan, Banqiao
+hy2://dongtaiwang.com@www.dtku46.xyz:18417/?insecure=1&sni=www.bing.com#Taiwan, Sanxia District
 hy2://dongtaiwang.com@108.181.22.155:48558/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@108.181.22.155:48558/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@167.160.90.252:63530/?insecure=1&sni=www.bing.com#United States, Los Angeles
