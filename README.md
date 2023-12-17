@@ -16,3 +16,4 @@ Andriod: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
 ```
 
+PS:没有滥用action资源，6小时运行一次🤐
