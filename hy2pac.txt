@@ -8,7 +8,4 @@ hysteria://173.234.25.52:30072/?insecure=1&peer=bing.com&auth=dongtaiwang.com&up
 hysteria://108.181.22.239:39967/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 tuic://9a6140f4-abd8-4ece-aa0e-4f14556de56b:dongtaiwang.com@74.63.249.229:443/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, None
 tuic://983a85bd-8fae-45d2-a702-5d00a383763e:dongtaiwang.com@195.137.220.189:33445/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Atlanta
-tuic://996c2970-ec1c-4659-9c5f-b3609c42a764:dongtaiwang.com@108.181.2.158:33440/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
-tuic://9a6140f4-abd8-4ece-aa0e-4f14556de56b:dongtaiwang.com@74.63.249.229:443/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, None
-tuic://9a6140f4-abd8-4ece-aa0e-4f14556de56b:dongtaiwang.com@74.63.249.229:443/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, None
-tuic://9a6140f4-abd8-4ece-aa0e-4f14556de56b:dongtaiwang.com@74.63.249.229:443/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, None
+tuic://fef3d3c2-ab3e-4134-a2f3-0c2d83e0a76d:dongtaiwang.com@1.162.136.33:33098/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Taiwan, Banqiao
