@@ -6,7 +6,7 @@ hysteria://167.160.91.115:41189/?insecure=1&peer=www.amazon.cn&auth=bWAwIqINo7XD
 hysteria://51.158.54.46:55396/?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, Paris
 hysteria://173.234.25.52:48919/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://108.181.22.239:39967/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
-tuic://0c008b79-86e6-403d-b684-8ba559562c9e:dongtaiwang.com@109.104.152.161:44550/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Kansas City
+tuic://fef3d3c2-ab3e-4134-a2f3-0c2d83e0a76d:dongtaiwang.com@1.162.156.206:33098/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#Taiwan, Taoyuan District
 tuic://a72c47f7-5d2d-4029-a5ca-997ac2d1c956:dongtaiwang.com@64.31.55.124:44556/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
 tuic://a72c47f7-5d2d-4029-a5ca-997ac2d1c956:dongtaiwang.com@64.31.55.124:44556/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
 tuic://a72c47f7-5d2d-4029-a5ca-997ac2d1c956:dongtaiwang.com@64.31.55.124:44556/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
