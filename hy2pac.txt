@@ -8,5 +8,4 @@ hysteria://173.234.25.52:48919/?insecure=1&peer=bing.com&auth=dongtaiwang.com&up
 hysteria://www.dtku40.xyz:18490/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#Taiwan, Taipei
 hy2://dongtaiwang.com@64.31.55.42:31100/?insecure=1&sni=bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@109.104.152.214:11111/?insecure=1&sni=bing.com#United States, Kansas City
-tuic://e6b124d8-7a82-463d-b360-a3a3a19f7dc2:e6b124d8-7a82-463d-b360-a3a3a19f7dc2@108.181.5.131:21167/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#United States, Los Angeles
 hy2://dongtaiwang.com@109.104.152.214:11111/?insecure=1&sni=bing.com#United States, Kansas City
