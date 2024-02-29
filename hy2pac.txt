@@ -1,6 +1,6 @@
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#France, Neuilly-sur-Seine
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&sni=www.bing.com#United States, Los Angeles
-hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&sni=www.bing.com#France, Paris
+hy2://dongtaiwang.com@51.159.77.198:53967/?insecure=1&sni=www.bing.com#France, Paris
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#France, Neuilly-sur-Seine
 hysteria://167.160.91.115:41189/?insecure=1&peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://51.158.54.46:55396/?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, Paris
