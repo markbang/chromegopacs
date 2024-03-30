@@ -5,4 +5,4 @@ hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#France, Ne
 hysteria://167.160.91.115:41189/?insecure=1&peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://51.158.54.46:55396/?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, Paris
 hysteria://173.234.25.52:48919/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
-hysteria://www.dtku40.xyz:18490/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#Taiwan, Taipei
+hysteria://www.dtku40.xyz:18490/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#Taiwan, Banqiao
