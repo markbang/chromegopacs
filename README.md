@@ -14,6 +14,8 @@ Windows: https://github.com/MatsuriDayo/nekoray/releases
 
 Andriod: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+当然，全平台客户端查看：[https://v2rayse.com/client](https://v2rayse.com/client)
+
 > 订阅链接
 
 ```
