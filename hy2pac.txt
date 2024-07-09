@@ -6,4 +6,3 @@ hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&u
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
-tuic://1607c99b-7df5-4b58-a315-a440f9afde40:dongtaiwang.com@51.159.34.216:33445/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#France, Paris
