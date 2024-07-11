@@ -1,7 +1,7 @@
-hy2://dongtaiwang.com@166.88.159.24:40931/?insecure=1&sni=www.bing.com#United States, None
 hy2://dongtaiwang.com@51.159.2.179:23499/?insecure=1&sni=bing.com#France, Paris
-hy2://dongtaiwang.com@166.88.159.24:40931/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@166.88.159.24:40931/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@51.159.2.179:23499/?insecure=1&sni=bing.com#France, Paris
+hy2://dongtaiwang.com@51.159.2.179:23499/?insecure=1&sni=bing.com#France, Paris
+hy2://dongtaiwang.com@51.159.2.179:23499/?insecure=1&sni=bing.com#France, Paris
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
 hysteria://62.210.243.131:18702/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#France, None
