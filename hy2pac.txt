@@ -1,8 +1,8 @@
-hy2://dongtaiwang.com@38.114.103.210:30647/?insecure=1&sni=bing.com#United States, Wilmington
-hy2://dongtaiwang.com@208.87.243.123:33599/?insecure=1&sni=bing.com#United States, None
-hy2://dongtaiwang.com@208.87.243.123:33599/?insecure=1&sni=bing.com#United States, None
-hy2://dongtaiwang.com@208.87.243.123:33599/?insecure=1&sni=bing.com#United States, None
-hysteria://166.1.18.52:41363/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Wilmington
-hysteria://208.87.243.123:38268/?insecure=1&peer=www.microsoft.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
-hysteria://208.87.243.123:38268/?insecure=1&peer=www.microsoft.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
-hysteria://208.87.243.123:38268/?insecure=1&peer=www.microsoft.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
+hy2://dongtaiwang.com@38.114.103.210:26288,20000-30000/?insecure=1&sni=www.bing.com#United States, Wilmington
+hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
+hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
+hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
+hysteria://166.1.18.52:10295,20000-30000/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Wilmington
+hysteria://208.87.243.123:31476/?insecure=1&peer=wechat.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
+hysteria://208.87.243.123:31476/?insecure=1&peer=wechat.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
+hysteria://208.87.243.123:31476/?insecure=1&peer=wechat.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
