@@ -1,4 +1,4 @@
-hy2://dongtaiwang.com@38.114.103.210:26288,20000-30000/?insecure=1&sni=www.bing.com#United States, Wilmington
+hy2://dongtaiwang.com@51.159.34.216:7571,20000-30000/?insecure=1&sni=www.bing.com#France, Paris
 hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
 hy2://dongtaiwang.com@108.181.24.39:60714,40000-50000/?insecure=1&sni=www.bing.com#United States, Los Angeles
