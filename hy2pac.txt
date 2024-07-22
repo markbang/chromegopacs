@@ -1,7 +1,7 @@
-hy2://dongtaiwang.com@173.234.31.98:57429,20000-30000/?insecure=1#United States, San Antonio
-hy2://dongtaiwang.com@173.234.31.98:57429,20000-30000/?insecure=1#United States, San Antonio
-hy2://dongtaiwang.com@173.234.31.98:57429,20000-30000/?insecure=1#United States, San Antonio
-hy2://dongtaiwang.com@173.234.31.98:57429,20000-30000/?insecure=1#United States, San Antonio
+hy2://dongtaiwang.com@173.234.31.99:56549/?insecure=1#United States, Dallas
+hy2://dongtaiwang.com@173.234.31.99:56549/?insecure=1#United States, Dallas
+hy2://dongtaiwang.com@173.234.31.99:56549/?insecure=1#United States, Dallas
+hy2://dongtaiwang.com@173.234.31.99:56549/?insecure=1#United States, Dallas
 hysteria://166.1.18.52:10295,20000-30000/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Wilmington
 hysteria://208.87.243.123:31476/?insecure=1&peer=wechat.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
 hysteria://208.87.243.123:31476/?insecure=1&peer=wechat.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
