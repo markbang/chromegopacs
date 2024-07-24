@@ -1,7 +1,7 @@
-hy2://dongtaiwang.com@hy3.3124845.xyz:443/?insecure=0&sni=hy3.3124845.xyz#United States, Wilmington
-hy2://dongtaiwang.com@166.1.18.178:23456/?insecure=1&sni=bing.com#United States, Wilmington
-hy2://dongtaiwang.com@166.1.18.178:23456/?insecure=1&sni=bing.com#United States, Wilmington
-hy2://dongtaiwang.com@166.1.18.178:23456/?insecure=1&sni=bing.com#United States, Wilmington
+hy2://dongtaiwang.com@207.90.239.157:22334/?insecure=1&sni=bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:22334/?insecure=1&sni=bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:22334/?insecure=1&sni=bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:22334/?insecure=1&sni=bing.com#United States, None
 hysteria://38.135.52.192:23456/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
 hysteria://38.135.52.192:23456/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
 hysteria://38.135.52.192:23456/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, None
