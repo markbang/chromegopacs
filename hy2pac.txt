@@ -1,8 +1,8 @@
 hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@62.210.101.0:25302,30000-40000/?insecure=1&sni=www.bing.com#France, Neuilly-sur-Seine
+hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
 hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
 hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
 hysteria://104.166.125.163:11001/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
-hysteria://173.234.31.102:10221/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Dallas
+hysteria://104.166.125.163:11001/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://104.166.125.163:11001/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://104.166.125.163:11001/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
