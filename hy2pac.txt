@@ -1,7 +1,7 @@
-hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:15669,30000-40000/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
 hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
 hysteria://91.149.239.23:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
