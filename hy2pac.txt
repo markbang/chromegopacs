@@ -1,8 +1,8 @@
-hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
-hy2://dongtaiwang.com@207.90.239.157:3400,20000-30000/?insecure=1&sni=www.bing.com#United States, None
-hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
-hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
-hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
-hysteria://166.1.221.169:11223/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
+hy2://dongtaiwang.com@207.90.239.157:11111/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:11111/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:11111/?insecure=1&sni=www.bing.com#United States, None
+hy2://dongtaiwang.com@207.90.239.157:11111/?insecure=1&sni=www.bing.com#United States, None
+hysteria://166.1.221.169:55555/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
+hysteria://166.1.221.169:55555/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
+hysteria://166.1.221.169:55555/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
+hysteria://166.1.221.169:55555/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Weehawken
